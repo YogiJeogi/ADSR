@@ -3,13 +3,11 @@ Signal Replication, Time Wave Replication, RPC
 
 I developed This algorithm for a project.
 
-actually this could be tested if u have ni module.
+actually this could be tested if u have ni modules that i forget the name.
 
-I forgot this source code.
-
-its shame to show this code becouse i developed this program for short time. 
+Its shame to show this code becouse I developed this program for short time, 12 years ago 
 so its 'Spaghetti'
 
-anyway i hope this code help u
+Anyway I hope this code could help u to understand signal replication.
 
 
