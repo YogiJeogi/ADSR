@@ -10,4 +10,4 @@ so its 'Spaghetti'
 
 Anyway I hope this code could help u to understand signal replication.
 
-
+공부열심히 하셔요.
